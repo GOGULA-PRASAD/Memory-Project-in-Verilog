@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/hp/OneDrive/Desktop/Always/memory/testcases
+vmem
+Z1 !s110 1757320024
+!i10b 1
+!s100 DR2z2o2GSb9nXk3DhlWzG0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I77RSGIAJak0LfeLTQ6b==0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1757319775
+8mem_test.v
+Fmem_test.v
+!i122 2
+L0 29 29
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1757320024.000000
+!s107 mem_test.v|mem_test_tb.v|
+Z6 !s90 -reportprogress|300|mem_test_tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vtb
+R1
+!i10b 1
+!s100 KDHEhg7j@R2?IcERo[6QP3
+R2
+IDcK<8lICI:ePPH?1m8nKP1
+R3
+R0
+w1757319845
+8mem_test_tb.v
+Fmem_test_tb.v
+!i122 2
+L0 2 133
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 mem_test.v|mem_test_tb.v|
+R6
+!i113 1
+R7
